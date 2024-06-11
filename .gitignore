@@ -21,5 +21,10 @@
 go.work
 go.work.sum
 
-
+.vscode
 others/
+test/
+logs/
+iowriter/
+source/
+bak/
